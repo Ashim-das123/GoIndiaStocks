@@ -7,15 +7,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ```bash
 git clone https://github.com/Ashim-das123/GoIndiaStocks.git
 ```
-2.Navigate to the project directory:
-```bash
-cd project-name
-```
-3.Install dependencies:
+
+2. Install dependencies:
 ```bash
 npm install
 ```
-4.Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
