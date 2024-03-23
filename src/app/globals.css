@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.active {
+    position: absolute;
+    right: 0;
+}
+
+
+
+@media screen and (min-width:900px) {
+
+    .resposivediv {
+        position: relative;
+    }
+}
+
+@media screen and (max-width:645px) {
+    .sidebar {
+        font-size: 12px;
+    }
+
+    .resposivediv {
+        width: 200px;
+    }
+
+    .DiscussCardContainer {
+        font-size: 10px;
+    }
+
+    .demoimg {
+        object-fit: cover;
+
+    }
+
+}
