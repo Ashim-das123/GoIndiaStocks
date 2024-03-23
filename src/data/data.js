@@ -32,6 +32,17 @@ export const data = [
         "share": "share",
         "time": "10 min ago"
     },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "sector": "sector 2",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos laboriosam molestiae maxime voluptates saepe. Dolorem. Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "likes": 220,
+        "views": 250,
+        "comments": 230,
+        "share": "share",
+        "time": "10 min ago"
+    },
 
 ]
 
